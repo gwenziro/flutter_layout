@@ -1,16 +1,22 @@
-# flutter_layout
+# Pertemuan 6
 
-A new Flutter project.
+Nama    : Muhammad Rayhan
+NIM     : 2241720213
+Kelas   : TI-3H
 
-## Getting Started
+## Praktikum 1
+![alt text](image/image-1.png)
 
-This project is a starting point for a Flutter application.
+## Praktikum 2
+![alt text](image/image-2.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Praktikum 3
+![alt text](image/image-3.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![alt text](image/image-4.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Praktikum 4
+![alt text](image.png)
+![alt text](image-1.png)
+
+![alt text](image-2.png)
